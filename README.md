@@ -1,6 +1,6 @@
 # Angular Sorting Visualizer Tool
 
-See it live here: [Heroku Demo](https://ng8-sorting-visualizer.herokuapp.com/)
+See it live here: [Netlify Demo](https://ng8-sorting-visualizer.netlify.app)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
